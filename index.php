@@ -8,7 +8,7 @@
 
         <div class="start-page__container">
             <div class="start-page__text">
-                    <p class="start-page__title start-page__title--white"> Вітаємо! </p>
+                 <p class="start-page__title start-page__title--white"> Вітаємо! </p>
                  <p class="start-page__title start-page__title--blue"> Ти в темі!</p>
             </div>
             <img  class="start-page__logo" src="<?php bloginfo('template_url'); ?>/assets/images/logo.svg" alt="logo IT-Volunteers" />
