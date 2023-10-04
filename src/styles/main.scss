@@ -1,9 +1,6 @@
-@import "./footer.scss";
-@import "./header.scss";
-@import "./global.scss";
 @import "./variables.scss";
 @import "./general.scss";
-
-.main{
-    color: $green;
-}
+@import "./global.scss";
+@import "./start-page.scss";
+@import "./header.scss";
+@import "./footer.scss";
