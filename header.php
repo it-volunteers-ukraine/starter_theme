@@ -36,7 +36,6 @@
                                 'items_wrap'           => '<ul id="%1$s" class="header_list %2$s">%3$s</ul>',  
                                 ] ); 
                             ?>   
-                            <button class="menu__btn">Замовити сайт</button>
                         </div>                          
                     </nav> 
                     <div class="burger-menu__overlay"></div> 
