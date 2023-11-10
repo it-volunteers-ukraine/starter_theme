@@ -1,4 +1,3 @@
-
 body {
   margin: 0;
   font-style: normal;
@@ -34,4 +33,24 @@ li {
 
 a {
   text-decoration: none;
+}
+
+.wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex-grow: 1;
+}
+
+header {
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+
+footer {
+  flex-grow: 0;
+  flex-shrink: 0;
 }

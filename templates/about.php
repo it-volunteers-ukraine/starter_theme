@@ -4,7 +4,11 @@ Template Name: about
 */
 get_header();
 ?>
-<h2>about page</h2>
+
+<main>
+    <h1>about page</h1>
+</main>
+
 
 
 

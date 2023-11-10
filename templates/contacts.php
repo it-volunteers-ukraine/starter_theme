@@ -4,7 +4,10 @@ Template Name: contacts
 */
 get_header();
 ?>
-<h2>home page</h2>
+
+<main>
+    <h1>contacts page</h1>
+</main>
 
 
 

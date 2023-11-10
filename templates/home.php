@@ -4,7 +4,10 @@ Template Name: home
 */
 get_header();
 ?>
-<h2>home page</h2>
+<main>
+    <h1>home page</h1>
+</main>
+
 
 
 
